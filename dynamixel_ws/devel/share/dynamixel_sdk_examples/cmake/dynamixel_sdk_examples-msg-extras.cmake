@@ -1,0 +1,2 @@
+set(dynamixel_sdk_examples_MESSAGE_FILES "/home/wandra/dynamixel_ws/src/dynamixel_sdk_examples/msg/SetPosition.msg;/home/wandra/dynamixel_ws/src/dynamixel_sdk_examples/msg/SyncSetPosition.msg;/home/wandra/dynamixel_ws/src/dynamixel_sdk_examples/msg/BulkSetItem.msg")
+set(dynamixel_sdk_examples_SERVICE_FILES "/home/wandra/dynamixel_ws/src/dynamixel_sdk_examples/srv/GetPosition.srv;/home/wandra/dynamixel_ws/src/dynamixel_sdk_examples/srv/SyncGetPosition.srv;/home/wandra/dynamixel_ws/src/dynamixel_sdk_examples/srv/BulkGetItem.srv")
